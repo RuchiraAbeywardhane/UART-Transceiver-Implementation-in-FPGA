@@ -1,2 +1,2 @@
 # UART-Transceiver-Implementation-in-FPGA
-A UART was implemented on an FPGA to enable half-duplex serial communication between two devices. The implementation was successfully tested, with timing diagrams accurately captured.
+The Universal Asynchronous Receiver-Transmitter (UART) is a hardware component used for asynchronous serial communication between electronic devices. It takes each byte (composed of 8 parallel bits) and converts it into a sequence of bits for serial transmission. The goal was to implement a UART on a Field Programmable Gate Array (FPGA) to establish half-duplex communication between two such UARTs. The implementation was successfully tested using a test bench, and the timing diagrams were accurately obtained.
